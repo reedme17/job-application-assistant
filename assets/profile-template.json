@@ -1,0 +1,31 @@
+{
+  "note": "Copy into your private job-search workspace. Null means unknown. Fill only confirmed facts. Do not store passwords, identity-document numbers, or session tokens here.",
+  "resume_path": null,
+  "contact": {
+    "full_name": null,
+    "email": null,
+    "phone": null,
+    "city": null,
+    "country": null,
+    "linkedin_url": null,
+    "portfolio_url": null
+  },
+  "preferences": {
+    "target_roles": [],
+    "locations": [],
+    "work_arrangements": [],
+    "excluded_companies": [],
+    "hard_constraints": [],
+    "salary": {"minimum": null, "currency": null, "period": null}
+  },
+  "approved_answers": [],
+  "answer_entry_schema": {
+    "question": "Exact question or narrowly defined meaning",
+    "answer": null,
+    "scope": "Applicable country, employer, role, currency or date context",
+    "confirmed_by_user": false,
+    "confirmed_on": null
+  },
+  "additional_verified_facts": [],
+  "submission_mode": "manual"
+}

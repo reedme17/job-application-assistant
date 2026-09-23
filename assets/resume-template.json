@@ -1,0 +1,10 @@
+{
+  "name": "Example Candidate",
+  "contact_lines": ["candidate@example.com | City, Country | portfolio.example.com"],
+  "sections": [
+    {"heading": "SUMMARY", "entries": [{"text": "Replace with a summary supported by the candidate's confirmed experience."}]},
+    {"heading": "EXPERIENCE", "entries": [{"title": "Official role title | Employer", "detail": "Confirmed dates | Location", "bullets": ["Replace with a verified achievement; preserve the original scope and metrics."]}]},
+    {"heading": "EDUCATION", "entries": [{"title": "Verified degree | Institution", "detail": "Confirmed dates"}]},
+    {"heading": "SKILLS", "entries": [{"text": "Include only skills supported by the candidate's facts."}]}
+  ]
+}

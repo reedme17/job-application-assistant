@@ -1,0 +1,17 @@
+# Private user data and generated job-application artifacts
+job-search-workspace/
+applications/
+queue.json
+profile.json
+*.private.json
+
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Generated PDF previews and checks
+*-preview/
+*-check.json

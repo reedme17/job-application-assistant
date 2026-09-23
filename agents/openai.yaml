@@ -1,0 +1,6 @@
+interface:
+  display_name: "求职申请助手"
+  short_description: "从搜索结果整理岗位、微调真实简历并填写申请表，保留人工最终提交"
+  default_prompt: "使用 $job-application-assistant 处理我提供的搜索结果页和基础简历，整理岗位入口、准备定制简历并填写申请表，停在最终提交前。"
+policy:
+  allow_implicit_invocation: true
